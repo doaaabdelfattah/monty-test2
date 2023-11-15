@@ -1,0 +1,2 @@
+# monty
+stack project LIFO
